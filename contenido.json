@@ -1,0 +1,301 @@
+{
+    "titulos":[
+        {
+            "titulo1":"Un Mundo de Colores",
+            "subtitulo1":"Diferentes habilidades, mismos sueños",
+            "titulo2":"Descifrando el enigma del autismo",
+            "subtitulo2":"Exploremos la diversidad de cada uno",
+            "titulo3":"La educacion y los TEA",
+            "titulo4":"La comunicacion y los TEA",
+            "tituloCom":"Cuando hablamos de problemas de comunicación nos referimos a:",
+            "titulo6":"Estos serían los principales síntomas de alarma:",
+            "sigPag":"¿Quieres informarte sobre los sintomas para estar mas informado?",
+            "sigPag2":"¿Quieres informarte sobre como es la adaptación curricular?",
+            "descripcion":"¡En el siguiente enlace encontraras más información!"
+        }
+    ],
+    "layouts":[
+        {
+            "titulo":"Descifrando el enigma del autismo",
+            "descripcion":"Exploraremos los misterios y la diversidad del trastrono del espectro autista (TEA), en este articulo se destacaran las caracteristicas, desafios e impacto del autismo en la vida de las personas.",
+            "imagen":"https://statics-cuidateplus.marca.com/cms/styles/ratio_43/azblob/2022-07/autismo.jpg.webp?itok=dAkIG9kr",
+            "url":"informacion/indexInfo.html"
+        },
+        {    
+            "titulo":"La educacion y los TEA",
+            "descripcion":"Destacaremos la importancia de la educacion inclusiva y las estrategias efectivas para apoyar la experiencia de los estudiantes, docentes y padres en este ambito.",
+            "imagen":"https://www.fundacionconectea.org/wp-content/uploads/2021/02/Entradas-BLOG-5.png",
+            "url":"educacion/indexEdu.html"
+        },
+        { 
+            "titulo":"La comunicacion y los TEA",
+            "descripcion":"Analizaremos las complejidades de la comunicacion en el autismo, desde dificultades en la interaccion social hasta las estrategias efectivas de comunicacion y terapia que pueden mejorar la calidad de vida.",
+            "imagen":"https://www.bupasalud.com/sites/default/files/styles/640_x_400/public/articulos/2021-03/fotos/autism%20article%20new.jpg?itok=mGbYPhvl",
+            "url":"comunicacion/indexCom.html"
+        }
+    ],
+    "contenido":[
+        {
+            "titulo":"¿Que son los TEA?",
+            "que":"Los Trastornos del Espectro Autista (TEA), se definen como una disfunción neurológica crónica con fuerte base genética que desde edades tempranas se manifiesta en una serie de síntomas relacionados con la interacción social, la comunicación y la falta de flexibilidad en el razonamiento y comportamientos",
+            "imagen":"https://media.gq.com.mx/photos/624881eceaa378c48316e994/16:9/w_2560%2Cc_limit/nin%25CC%2583o%2520con%2520autismo.jpg"
+        }
+    ],
+    "contenidoListado":[
+        {
+            "titulo":"Los tipos o grados de Autismo",
+            "que":"Se diferencian 5 grandes tipos de autismo, por lo que las personas que lo padecen pueden situarse en cualquier punto del espectro:",
+            "elemento1":"Autismo.",
+            "elemento2":"Síndrome de Rett.",
+            "elemento3":"Síndrome de Asperger.",
+            "elemento4":"Trastorno desintegrado infantil o síndrome de Heller.",
+            "elemento5":"Trastorno generalizado del desarrollo no especificado.",
+            "imagen":"https://img2.rtve.es/i/?w=1600&i=1680254298799.jpg"
+        }
+    ],
+    "tipos":[
+        {
+            "titulo":"Autismo",
+            "descripcion":"Es un trastorno que habitualmente comienza durante los 3 primeros años de vida, siendo los padres los primeros que comienzan a identificar en su hijo comportamientos diferentes a los niños de su edad. Algunos de estos síntomas extraños son: nula o muy escasa comunicación verbal, el niño es muy poco sociable y solitario, o bien no muestra interés en identificar objetos o llamar la atención de los padres.",
+            "imagen":"https://centromedicoabc.com/wp-content/uploads/2023/09/shutterstock_1935999781.webp"        
+        },
+        {
+            "titulo":"Síndrome de Rett",
+            "descripcion":"Este tipo de autismo es notable debido a que afecta en su mayoría a niñas y muestra un patrón regresivo. Aproximadamente a los 2 años de edad, las personas afectadas comienzan a experimentar un deterioro progresivo del sistema nervioso, lo que resulta en cambios en la comunicación, la cognición y la motricidad, tanto fina como gruesa. Hasta ese punto, estas niñas parecen tener un desarrollo psicomotor normal. Sin embargo, incluso durante el período sin síntomas evidentes, se observa una disminución del tono muscular (hipotonía).",
+            "imagen":"https://www.somospacientes.com/wp-content/uploads/2023/01/sindrome-de-Rett-main.jpg"        
+        },
+        {
+            "titulo":"Síndrome de Asperger",
+            "descripcion":"Es el tipo de autismo más difícil y, en ocasiones, tardío de diagnosticar, porque las personas afectadas no tienen ningún tipo de discapacidad intelectual ni rasgo físico que las identifique. El déficit se encuentra en el campo de las habilidades sociales y el comportamiento, siendo lo suficientemente importante como para comprometer seriamente su desarrollo e integración social y laboral.Problemas de interacción social, falta de empatía, poca coordinación psicomotriz, no entender las ironías ni el doble sentido del lenguaje, y la obsesión con ciertos temas, son algunas de las características más habituales en el Asperger.",
+            "imagen":"https://www.acudiremergencias.com.ar/wp-content/uploads/6192e5ea08c2a.jpg"        
+        },
+        {
+            "titulo":"Síndrome de Heller",
+            "descripcion":"Suele aparecer sobre los 2 años, aunque en ocasiones no se hace evidente hasta pasados los 10. Coincide con los otros tipos de autismo en afectar a las mismas áreas (lenguaje, función social y motricidad), pero se diferencia en su carácter regresivo y repentino, hasta el punto de que en ocasiones el mismo niño se da cuenta del problema, mostrando su preocupación a los padres.",
+            "imagen":"https://awenpsicologia.com/wp-content/uploads/trastorno-desintegrativo-infantil-definicion-.webp"        
+        },
+        {
+            "titulo":"Trastorno generalizado del desarrollo no especificado",
+            "descripcion":"Es una etiqueta diagnóstica que se utiliza en aquellos casos en que los síntomas clínicos son demasiado heterogéneos como para ser incluidos en alguno de los otros tipos. También se presentan trastornos de reciprocidad social, problemas severos de comunicación y la existencia de intereses y actividades peculiares, restringidas y estereotipadas.",
+            "imagen":"https://isfap.com/wp-content/uploads/2022/05/autismo-isfap.jpg"        
+        }
+    ],
+    "tratamiento":[
+        {
+            "titulo":"¿Existe algún tratamiento?",
+            "descripcion":"Si bien, en general, los niños no dejan de tener los síntomas del trastorno del espectro autista cuando crecen, pueden aprender a desempeñarse adecuadamente. El tratamiento conductual reduce los comportamientos no deseados, promueve el lenguaje y la interacción social y, además, aumenta habilidades que fomentan la independencia"
+        }
+    ],
+    "sintomasIntro":[
+        {
+            "titulo":"¿Hay alguna manera de detectar un TEA?",
+            "descripcion":"En todos los casos de TEA el diagnóstico se realiza a través de la observación directa de las alteraciones del comportamiento ya que no existe ningún marcador biológico específico para el autismo. El protocolo indica que hay que recoger la sintomatología mediante la observación directa del niño y una entrevista clínica con los padres.",
+            "imagen":"https://www.elmundodelautismo.es/wp-content/uploads/2021/11/portrait-of-girl-looking-through-her-painted-hands-standing-against-white-brick-wall.jpg"            
+        },
+        {    
+            "titulo":"¿Cuáles son los síntomas más comunes?",
+            "descripcion":"Algunos niños con TEA presentan una serie de síntomas muy claros y visibles y por ello son detectados por los padres en los primeros meses de vida. Pero, a veces, son los profesores de la guardería los que ponen en alerta a los padres al observar un desarrollo inadecuado de sus habilidades básicas o de relación con los otros niños.",
+            "imagen":"https://quo.eldiario.es/wp-content/uploads/2019/10/por-que-el-autismo-es-mas-comun-en-ninos-que-en-ninas.jpg"
+        },
+        {
+            "titulo":"Algunos sintomas que se pueden presentar son los siguientes: ",
+            "descripcion":"Los sintomas pueden variar, no siempre son los mismos en todas las personas.",
+            "imagen":"https://www.criarconsentidocomun.com/wp-content/uploads/2021/02/autismo-1-scaled.jpg"            
+        
+        }
+    ],
+    "sintomas":[
+        {
+            "elemento":"Retraso o ausencia del habla.",
+            "descripcion":"En el autismo se refiere a una dificultad común en las personas con trastorno del espectro autista (TEA) para desarrollar habilidades verbales o comunicarse a través del lenguaje de manera típica, lo que puede variar desde una demora en el desarrollo del habla hasta la completa falta de habilidades lingüísticas.",
+            "imagen":"https://www.familiaysalud.es/sites/default/files/por_que_no_habla.jpg"
+        },
+        {
+            "elemento":"No presta atención a las otras personas.",
+            "descripcion":"Esto se debe a las diferencias en el procesamiento sensorial, la sobreestimulación en entornos sociales y la preferencia por enfoques de comunicación no verbal o intereses específicos. Sin embargo, es importante recordar que el espectro autista es diverso, y las experiencias individuales pueden variar considerablemente.",
+            "imagen":"https://portal.andina.pe/EDPfotografia/Thumbnail/2015/09/18/000314686W.jpg"
+        },
+        {
+            "elemento":"Falta de respuesta a las expresiones faciales o sentimientos de los demás.",
+            "descripcion":"Esto puede deberse a la hiperactividad sensorial, la dificultad para leer las expresiones faciales o la preferencia por otros tipos de comunicación. Estas diferencias pueden limitar su capacidad para comprender y expresar emociones a través de señales faciales convencionales.",
+            "imagen":"https://media.istockphoto.com/id/1191517179/es/foto/ni%C3%B1o-serio-mirando-a-la-c%C3%A1mara.jpg?s=170667a&w=0&k=20&c=b7rqq84_C1I6DRYPm1_wGVsDmQwWuuhNOQxH-Lrvfc4="
+        },
+        {
+            "elemento":"Falta de juego simbólico y ausencia de imaginación.",
+            "descripcion":"La falta de imaginación se debe principalmente a diferencias en el procesamiento cognitivo y la percepción sensorial que pueden afectar su capacidad para la imaginación abstracta o la empatía emocional. Sin embargo, es importante destacar que no todas las personas autistas carecen de imaginación, y muchas tienen habilidades creativas excepcionales en áreas específicas. Las diferencias en la imaginación pueden variar ampliamente de un individuo a otro.",
+            "imagen":"https://images.hola.com/images/027e-17436cb7a382-a83dc4341311-1000/horizontal-480/ni-o-aburrido-tirado-en-el-suelo-con-juguetes-a-su-alrededor.jpg"
+        },
+        {
+            "elemento":"Falta de interés por los niños de su edad.",
+            "descripcion":"Las personas autistas pueden experimentar una falta de interés en personas de su edad debido a diferencias en la percepción social y la comunicación, lo que a veces les dificulta conectarse con sus pares de manera típica. Esto puede llevar a preferir la compañía de personas de diferentes edades o intereses que se alineen mejor con sus necesidades sociales y emocionales.",
+            "imagen":"https://static.guiainfantil.com/uploads/educacion/nino-trsite-solo-padres-atras-p.jpg"
+        },
+        {
+            "elemento":"Alteración cualitativa en la comunicación no verbal.",
+            "descripcion":"La alteración cualitativa en la comunicación no verbal en personas autistas se manifiesta en dificultades para expresar y comprender gestos, expresiones faciales, tono de voz y contacto visual de manera típica, lo que puede afectar la interacción social y la comunicación efectiva.",
+            "imagen":"https://media.diariolasamericas.com/p/07c4c5265623254e32c7a6a37942abca/adjuntos/216/imagenes/100/038/0100038875/1200x630/smart/autismo-nino-pexels-mikhail-nilov.jpg"
+        },
+        {
+            "elemento":"No señalar objetos para dirigir la atención de otra persona.",
+            "descripcion":"Las personas autistas pueden no señalar objetos para dirigir la atención debido a dificultades en la comunicación no verbal y en la coordinación social. Esto se debe a diferencias en el procesamiento sensorial y las interacciones sociales que pueden dificultar el uso de gestos comunes, como señalar, para comunicarse con los demás.",
+            "imagen":"https://tn.com.ar/resizer/noPwSOiUWNNIJHPHZgBh2k5jwQ4=/767x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/54L26R7RIFATTPYCXBUBJ3BVRY.jpeg"
+        },
+        {
+            "elemento":"Falta de utilización social de la mirada.",
+            "descripcion":"Las personas autistas a menudo evitan el contacto visual debido a la sobrecarga sensorial y las dificultades en procesar y responder a las señales sociales, lo que puede resultar en ansiedad y malestar.",
+            "imagen":"https://saposyprincesas.elmundo.es/wp-content/uploads/2020/03/que-es-el-autismo-1.jpg"
+        },
+        {
+            "elemento":"Falta de iniciativa en actividades o juego social.",
+            "descripcion":"Las personas autistas pueden tener dificultades para iniciar actividades sociales debido a desafíos en la comunicación y la interpretación de señales sociales, lo que puede llevar a la ansiedad y la incomodidad en situaciones sociales.",
+            "imagen":"https://hospitalsantamonica.com.br/wp-content/uploads/2018/06/como-saber-se-seu-filho-tem-autismo.jpg"
+        },
+        {
+            "elemento":"Falta de reacción a estímulos sonoros.",
+            "descripcion":"Las personas autistas pueden tener dificultades en el procesamiento de estímulos sonoros debido a la sensibilidad sensorial atípica que a menudo experimentan, lo que puede llevar a una sobrecarga sensorial o a la necesidad de filtrar ciertos estímulos para regular su entorno.",
+            "imagen":"https://i0.wp.com/www.elmundodelautismo.es/wp-content/uploads/2021/11/child-boy-against-gray-background-covering-ears-with-hands-domestic-violence-and-family-abuse-concept.jpg?resize=850%2C567&ssl=1"
+        }
+    ],
+    "educacion":[
+        {
+            "titulo":"La importancia del profesor en la detección del autismo del alto rendimiento",
+            "descripcion":"Los niños afectados por síndrome de Asperger o autismo de alto rendimiento son los más difíciles de detectar, ya que muchas veces no manifiestan de forma clara su problema hasta que no se le expone a un mayor grado de demanda social, lo que no suele ocurrir hasta el inicio de la educación primaria.<br>Por este motivo, en estos casos específicos es cuando se hace más importante, y a veces imprescindible, la participación del profesor en la detección de síntomas que hagan sospechar de un posible caso de autismo.",
+            "imagen":"https://observatorio.tec.mx/wp-content/uploads/2022/05/autismo.jpeg"
+        },
+        {
+            "titulo":"La intervención en el aula",
+            "descripcion":"Lo primero que hay que tener en cuenta es que el autismo no tiene cura, por lo tanto, acompañará al niño durante todo su periplo vital. Lo que sí tiene es tratamiento, que de realizarse adecuadamente pueden contribuir eficazmente a su desarrollo y bienestar. <br>El grado de mejoría e integración social de un alumno con autismo no depende exclusivamente de la educación que reciba, puesto que influyen otros muchos factores como: tipo de autismo, grado de afectación y entorno familiar y social. Sin embargo, está demostrado que una educación de calidad, donde se utilicen métodos y terapias adecuadas y estimulantes, y siempre que sea posible en el aula ordinaria, es fundamental en el desarrollo de estos niños.",
+            "imagen":"https://radio.uchile.cl/wp-content/uploads/2021/04/D%C3%ADa-Mundial-Autismo.jpg"
+        }
+    ],
+    "educacionLista":[
+        {
+            "elemento":"Desarrollo deficiente del lenguaje."
+        },
+        {
+            "elemento":"Tendencia a hablar espontáneamente solo sobre temas de su interés."
+        },
+        {
+            "elemento":"Dificultad para unirse al juego de otros niños."
+        },
+        {
+            "elemento":"Conductas agresivas."
+        },
+        {
+            "elemento":"Falta de cumplimiento de las normas de la clase."
+        },
+        {
+            "elemento":"Reacción negativa ante los estímulos."
+        },
+        {
+            "elemento":"Relación anormal con los adultos."
+        },
+        {
+            "elemento":"Reacciones extremas ante la invasión de su espacio personal."
+        },
+        {
+            "elemento":"Graves dificultades de adaptación a los cambios."
+        },
+        {
+            "elemento":"Déficit en las habilidades motoras o sociales."
+        }
+    ],
+    "educacion2":[
+        {
+            "titulo":"¿Como debe realizarse la intervencion educativa?",
+            "descripcion":"La intervención educativa de un niño autista debe realizarse siempre bajo la supervisión y apoyo de personal especializado o con formación específica. Es muy importante que tenga un enfoque que abarque las siguientes dimensiones básicas:",
+            "imagen":"https://s1.eestatic.com/2017/07/01/blogs/autismo_puzles_y_galletas/autismo-_puzles_y_galletas_227988434_38128545_1706x960.jpg"
+        }
+    ],
+    "intervencion":[
+        {
+            "elemento":"Identidad y auto reconocimiento."
+        },
+        {
+            "elemento":"Capacidades de relación social."
+        },
+        {
+            "elemento":"Autocontrol."
+        },
+        {
+            "elemento":"Competencias de anticipación."
+        },
+        {
+            "elemento":"Procesos de utilización adecuada de conductas aprendidas."
+        }
+    ],
+    "adaptacion":[
+        {
+            "titulo":"¿Cuál es el objetivo de la intervencion en la educación?",
+            "descripcion":"El objetivo principal de la intervención educativa en un niño con este problema es la mejora de su conocimiento social y de sus habilidades comunicativas. Otra meta importante es lograr que tenga un mayor control de sus comportamientos y una conducta los más adaptada posible al entorno.",
+            "imagen":"https://www.plenainclusion.org/wp-content/uploads/2022/10/Autismo_foto5-scaled.jpg"
+        },
+        {
+            "titulo":"¿Qué se realiza en el proceso?",
+            "descripcion":"El principal reto de la educación a un niño diagnosticado de TEA es que no solo hay que enseñarle el concepto o la habilidad para realizar una determinada tarea, sino que también hay que entrenarle en su uso de manera adecuada, funcional, espontánea y normalizada.",
+            "imagen":"https://suitacdn.cloud-bricks.net/fotos/738025/file/desktop/Escola%201.jpg?1678125889"
+        }
+    ],
+    "metodologia":[
+        {
+            "titulo":"Metdologias de estudio",
+            "descripcion":"Algunas de las metodologias mas utilizadas que resultaron efectivas fueron las siguientes:"
+        }
+    ],
+    "metodologiaContenido":[
+        {
+            "titulo":"Metodologia de agendas y juegos",
+            "descripcion":"Las agendas visuales basadas en pictogramas donde se programan las tareas a realizar son muy eficaces en la educación de este tipo de escolares. Al igual que los puzzles, el juego simbólico, los juegos con pelotas y los recursos innovadores basados en Internet y determinados videojuegos.",
+            "imagen":"https://i0.wp.com/calmatters.network/wp-content/uploads/2021/03/fb_image-818.jpeg?w=780&ssl=1"
+        },
+        {
+            "titulo":"La importancia del entorno",
+            "descripcion":"Un aspecto muy importante tiene que ver con el espacio y ambiente en el que tenga lugar la educación con estos alumnos: todo ha de estar muy bien estructurado y organizado, evitando los cambios bruscos, ya que estas personas son muy sensibles a cualquier modificación, por pequeña que sea.",
+            "imagen":"https://redsocial.rededuca.net/sites/default/files/resize/styles/panopoly_image_original/public/captura_1-500x337.png"
+        }
+    ],
+    "comunicacion":[
+        {
+            "texto":"Es fundamental enseñarles a los niños con trastornos del espectro autista cómo mejorar sus habilidades de comunicación para que puedan alcanzar su máximo potencial. Existen muchas maneras para mejorar las habilidades de comunicación, pero el mejor programa de tratamiento comienza temprano, durante los años preescolares, y está adaptado a la edad y los intereses del niño. Este tipo de programa también debe ayudar con los problemas de comportamiento y con las habilidades de comunicación del niño y debe reforzar regularmente las acciones positivas. En su mayoría, los niños que tienen trastornos del espectro autista responden bien a los programas especializados y bien estructurados. Los padres o quienes estén a cargo del cuidado del niño, al igual que otros familiares, deben involucrarse en el programa de tratamiento para que éste forme parte de la vida diaria del niño.",
+            "imagen":"https://ciosalud.com/wp-content/uploads/2023/04/logopedia-y-autismo-1024x709.jpg"
+        },
+        {
+            "texto":"Cuando el área del lenguaje y la comunicación se ve más afectada nos podemos encontrar con casos que no tengan desarrollado el lenguaje verbal, para este colectivo se prioriza la intervención centrada en la producción del habla, eso habitualmente se realiza mediante el uso de Sistemas Alternativos y Aumentativos de la Comunicación (SAAC). Aún así, se debe tener en cuenta que el lenguaje verbal no tiene que ser el único foco de intervención, ésta debería ser holística y tener en cuenta que es importante facilitar espacios para fomentar la intención comunicativa e interacción con el entorno.",
+            "imagen":"https://www.grupocidep.org/storage/2017/11/atencion-individual.jpg"
+        },
+        {
+            "texto":"Existen casos en los que el área de la comunicación y lenguaje no se ve tan afectada y sí que presentan un nivel de habla adecuado a su edad cronológica. Aún así, el lenguaje se pueden objetivar carencias en la forma de comunicarse (comentarios inadecuados, lenguaje muy adultizado para su edad cronológica, presencia de rituales verbales, ecolalias, etc)",
+            "imagen":"https://itasaludmental.com/fv/KyMmOj80LDh7amF2K3d9d2g0YnZscnF8KXdzZ2R9emE0IiI6KDYmOXpzYGJ6/2019/09/kids-girl-pencil-drawing-159823.jpeg"
+        },
+        {
+            "texto":"Es importante realizar un trabajo individual partiendo del nivel de comunicación y lenguaje de cada persona, con el objetivo de promover la conversación recíproca, el uso de comentarios adecuados al contexto, la comprensión del lenguaje figurado (metáforas, bromas, chistes, ironías o sarcasmo) y el lenguaje no verbal. Todo eso puede realizarse mediante dinámicas o juegos con el fin que sea más interactivo e implique un aprendizaje significativo",
+            "imagen":"https://i0.wp.com/autismodiario.com/wp-content/uploads/2013/07/h1.jpg"
+        },
+        {
+            "texto":"Además, en los espacios grupales, se promueve el entrenamiento de aquellos aspectos trabajados a nivel individual, con el fin de ponerlos en práctica en un contexto natural con un grupo de iguales, para facilitar que el aprendizaje sea lo más ajustado a una realidad diaria. Eso es fundamental puesto que presentan dificultades en la abstracción a la hora de generalizar aprendizajes.",
+            "imagen":"https://www.redcenit.com/redcenit/wp-content/uploads/2017/12/la-jerga-del-autismo-1140x754.jpg"
+        }
+    ],
+    "comunicacionLista":[
+        {
+            "elemento":"Escasa intención comunicativa.",
+            "descripcion":"Es común ver que los niños con un trastorno del espectro autista hablan y dicen cosas sin sentido o que no se relaciona con la conversación que están teniendo. O puede repetir continuamente las palabras que ha escuchado, lo que se conoce como ecolalia.",
+            "imagen":"https://static1.squarespace.com/static/5e1c4086dce55f319aac8247/t/5ebe81205381b612272098c9/1628748013989/?format=1500w"
+        },
+        {
+            "elemento":"Intereses específicos y habilidades excepcionales.",
+            "descripcion":"Aproximadamente el 10% de los niños que tienen un trastorno del espectro autista presentan habilidades de sabio o son excepcionalmente hábiles en áreas específicas como la memorización,música o matemáticas.",
+            "imagen":"https://wp.es.aleteia.org/wp-content/uploads/sites/7/2018/10/web3-autism-health-food-diet-advice-shutterstock_668562931-photogri.jpg?w=620&h=348&crop=1"
+        },
+        {
+            "elemento":"Limitaciones en el mensaje que se transmite.",
+            "descripcion":"Muchos niños con estos trastornos desarrollan ciertas habilidades del habla y del lenguaje que no corresponden al nivel normal y su progreso generalmente es desigual.",
+            "imagen":"https://www.bioneurovida.es/wp-content/uploads/2016/11/Autismo-todo-lo-que-debes-saber-sobre-el-2.jpg"
+        },
+        {
+            "elemento":"Recursos limitados para comunicar.",
+            "descripcion":"Es común que los niños con un TEA no puedan hacer gestos para dar significado a lo que dicen, ademas evitan el contacto visual. Al no poseer la posibilidad de hacer gestos o usar otras habilidades no verbales para mejorar sus habilidades de lenguaje oral muchos niños se frustran  por no poder expresar sus emociones, pensamientos y necesidades.",
+            "imagen":"https://www.magisnet.com/wp-content/uploads/2021/10/autismo.png"
+        }
+    ]
+}
